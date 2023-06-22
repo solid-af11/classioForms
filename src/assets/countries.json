@@ -1,0 +1,948 @@
+{
+    "countries": [
+        {
+            "lable": "+7 840",
+            "value": "Abkhazia"
+        },
+        {
+            "lable": "+93",
+            "value": "Afghanistan"
+        },
+        {
+            "lable": "+355",
+            "value": "Albania"
+        },
+        {
+            "lable": "+213",
+            "value": "Algeria"
+        },
+        {
+            "lable": "+1 684",
+            "value": "American Samoa"
+        },
+        {
+            "lable": "+376",
+            "value": "Andorra"
+        },
+        {
+            "lable": "+244",
+            "value": "Angola"
+        },
+        {
+            "lable": "+1 264",
+            "value": "Anguilla"
+        },
+        {
+            "lable": "+1 268",
+            "value": "Antigua and Barbuda"
+        },
+        {
+            "lable": "+54",
+            "value": "Argentina"
+        },
+        {
+            "lable": "+374",
+            "value": "Armenia"
+        },
+        {
+            "lable": "+297",
+            "value": "Aruba"
+        },
+        {
+            "lable": "+247",
+            "value": "Ascension"
+        },
+        {
+            "lable": "+61",
+            "value": "Australia"
+        },
+        {
+            "lable": "+672",
+            "value": "Australian External Territories"
+        },
+        {
+            "lable": "+43",
+            "value": "Austria"
+        },
+        {
+            "lable": "+994",
+            "value": "Azerbaijan"
+        },
+        {
+            "lable": "+1 242",
+            "value": "Bahamas"
+        },
+        {
+            "lable": "+973",
+            "value": "Bahrain"
+        },
+        {
+            "lable": "+880",
+            "value": "Bangladesh"
+        },
+        {
+            "lable": "+1 246",
+            "value": "Barbados"
+        },
+        {
+            "lable": "+1 268",
+            "value": "Barbuda"
+        },
+        {
+            "lable": "+375",
+            "value": "Belarus"
+        },
+        {
+            "lable": "+32",
+            "value": "Belgium"
+        },
+        {
+            "lable": "+501",
+            "value": "Belize"
+        },
+        {
+            "lable": "+229",
+            "value": "Benin"
+        },
+        {
+            "lable": "+1 441",
+            "value": "Bermuda"
+        },
+        {
+            "lable": "+975",
+            "value": "Bhutan"
+        },
+        {
+            "lable": "+591",
+            "value": "Bolivia"
+        },
+        {
+            "lable": "+387",
+            "value": "Bosnia and Herzegovina"
+        },
+        {
+            "lable": "+267",
+            "value": "Botswana"
+        },
+        {
+            "lable": "+55",
+            "value": "Brazil"
+        },
+        {
+            "lable": "+246",
+            "value": "British Indian Ocean Territory"
+        },
+        {
+            "lable": "+1 284",
+            "value": "British Virgin Islands"
+        },
+        {
+            "lable": "+673",
+            "value": "Brunei"
+        },
+        {
+            "lable": "+359",
+            "value": "Bulgaria"
+        },
+        {
+            "lable": "+226",
+            "value": "Burkina Faso"
+        },
+        {
+            "lable": "+257",
+            "value": "Burundi"
+        },
+        {
+            "lable": "+855",
+            "value": "Cambodia"
+        },
+        {
+            "lable": "+237",
+            "value": "Cameroon"
+        },
+        {
+            "lable": "+1",
+            "value": "Canada"
+        },
+        {
+            "lable": "+238",
+            "value": "Cape Verde"
+        },
+        {
+            "lable": "+ 345",
+            "value": "Cayman Islands"
+        },
+        {
+            "lable": "+236",
+            "value": "Central African Republic"
+        },
+        {
+            "lable": "+235",
+            "value": "Chad"
+        },
+        {
+            "lable": "+56",
+            "value": "Chile"
+        },
+        {
+            "lable": "+86",
+            "value": "China"
+        },
+        {
+            "lable": "+61",
+            "value": "Christmas Island"
+        },
+        {
+            "lable": "+61",
+            "value": "Cocos-Keeling Islands"
+        },
+        {
+            "lable": "+57",
+            "value": "Colombia"
+        },
+        {
+            "lable": "+269",
+            "value": "Comoros"
+        },
+        {
+            "lable": "+242",
+            "value": "Congo"
+        },
+        {
+            "lable": "+243",
+            "value": "Congo, Dem. Rep. of (Zaire)"
+        },
+        {
+            "lable": "+682",
+            "value": "Cook Islands"
+        },
+        {
+            "lable": "+506",
+            "value": "Costa Rica"
+        },
+        {
+            "lable": "+385",
+            "value": "Croatia"
+        },
+        {
+            "lable": "+53",
+            "value": "Cuba"
+        },
+        {
+            "lable": "+599",
+            "value": "Curacao"
+        },
+        {
+            "lable": "+537",
+            "value": "Cyprus"
+        },
+        {
+            "lable": "+420",
+            "value": "Czech Republic"
+        },
+        {
+            "lable": "+45",
+            "value": "Denmark"
+        },
+        {
+            "lable": "+246",
+            "value": "Diego Garcia"
+        },
+        {
+            "lable": "+253",
+            "value": "Djibouti"
+        },
+        {
+            "lable": "+1 767",
+            "value": "Dominica"
+        },
+        {
+            "lable": "+1 809",
+            "value": "Dominican Republic"
+        },
+        {
+            "lable": "+670",
+            "value": "East Timor"
+        },
+        {
+            "lable": "+56",
+            "value": "Easter Island"
+        },
+        {
+            "lable": "+593",
+            "value": "Ecuador"
+        },
+        {
+            "lable": "+20",
+            "value": "Egypt"
+        },
+        {
+            "lable": "+503",
+            "value": "El Salvador"
+        },
+        {
+            "lable": "+240",
+            "value": "Equatorial Guinea"
+        },
+        {
+            "lable": "+291",
+            "value": "Eritrea"
+        },
+        {
+            "lable": "+372",
+            "value": "Estonia"
+        },
+        {
+            "lable": "+251",
+            "value": "Ethiopia"
+        },
+        {
+            "lable": "+500",
+            "value": "Falkland Islands"
+        },
+        {
+            "lable": "+298",
+            "value": "Faroe Islands"
+        },
+        {
+            "lable": "+679",
+            "value": "Fiji"
+        },
+        {
+            "lable": "+358",
+            "value": "Finland"
+        },
+        {
+            "lable": "+33",
+            "value": "France"
+        },
+        {
+            "lable": "+596",
+            "value": "French Antilles"
+        },
+        {
+            "lable": "+594",
+            "value": "French Guiana"
+        },
+        {
+            "lable": "+689",
+            "value": "French Polynesia"
+        },
+        {
+            "lable": "+241",
+            "value": "Gabon"
+        },
+        {
+            "lable": "+220",
+            "value": "Gambia"
+        },
+        {
+            "lable": "+995",
+            "value": "Georgia"
+        },
+        {
+            "lable": "+49",
+            "value": "Germany"
+        },
+        {
+            "lable": "+233",
+            "value": "Ghana"
+        },
+        {
+            "lable": "+350",
+            "value": "Gibraltar"
+        },
+        {
+            "lable": "+30",
+            "value": "Greece"
+        },
+        {
+            "lable": "+299",
+            "value": "Greenland"
+        },
+        {
+            "lable": "+1 473",
+            "value": "Grenada"
+        },
+        {
+            "lable": "+590",
+            "value": "Guadeloupe"
+        },
+        {
+            "lable": "+1 671",
+            "value": "Guam"
+        },
+        {
+            "lable": "+502",
+            "value": "Guatemala"
+        },
+        {
+            "lable": "+224",
+            "value": "Guinea"
+        },
+        {
+            "lable": "+245",
+            "value": "Guinea-Bissau"
+        },
+        {
+            "lable": "+595",
+            "value": "Guyana"
+        },
+        {
+            "lable": "+509",
+            "value": "Haiti"
+        },
+        {
+            "lable": "+504",
+            "value": "Honduras"
+        },
+        {
+            "lable": "+852",
+            "value": "Hong Kong SAR China"
+        },
+        {
+            "lable": "+36",
+            "value": "Hungary"
+        },
+        {
+            "lable": "+354",
+            "value": "Iceland"
+        },
+        {
+            "lable": "+91",
+            "value": "India"
+        },
+        {
+            "lable": "+62",
+            "value": "Indonesia"
+        },
+        {
+            "lable": "+98",
+            "value": "Iran"
+        },
+        {
+            "lable": "+964",
+            "value": "Iraq"
+        },
+        {
+            "lable": "+353",
+            "value": "Ireland"
+        },
+        {
+            "lable": "+972",
+            "value": "Israel"
+        },
+        {
+            "lable": "+39",
+            "value": "Italy"
+        },
+        {
+            "lable": "+225",
+            "value": "Ivory Coast"
+        },
+        {
+            "lable": "+1 876",
+            "value": "Jamaica"
+        },
+        {
+            "lable": "+81",
+            "value": "Japan"
+        },
+        {
+            "lable": "+962",
+            "value": "Jordan"
+        },
+        {
+            "lable": "+7 7",
+            "value": "Kazakhstan"
+        },
+        {
+            "lable": "+254",
+            "value": "Kenya"
+        },
+        {
+            "lable": "+686",
+            "value": "Kiribati"
+        },
+        {
+            "lable": "+965",
+            "value": "Kuwait"
+        },
+        {
+            "lable": "+996",
+            "value": "Kyrgyzstan"
+        },
+        {
+            "lable": "+856",
+            "value": "Laos"
+        },
+        {
+            "lable": "+371",
+            "value": "Latvia"
+        },
+        {
+            "lable": "+961",
+            "value": "Lebanon"
+        },
+        {
+            "lable": "+266",
+            "value": "Lesotho"
+        },
+        {
+            "lable": "+231",
+            "value": "Liberia"
+        },
+        {
+            "lable": "+218",
+            "value": "Libya"
+        },
+        {
+            "lable": "+423",
+            "value": "Liechtenstein"
+        },
+        {
+            "lable": "+370",
+            "value": "Lithuania"
+        },
+        {
+            "lable": "+352",
+            "value": "Luxembourg"
+        },
+        {
+            "lable": "+853",
+            "value": "Macau SAR China"
+        },
+        {
+            "lable": "+389",
+            "value": "Macedonia"
+        },
+        {
+            "lable": "+261",
+            "value": "Madagascar"
+        },
+        {
+            "lable": "+265",
+            "value": "Malawi"
+        },
+        {
+            "lable": "+60",
+            "value": "Malaysia"
+        },
+        {
+            "lable": "+960",
+            "value": "Maldives"
+        },
+        {
+            "lable": "+223",
+            "value": "Mali"
+        },
+        {
+            "lable": "+356",
+            "value": "Malta"
+        },
+        {
+            "lable": "+692",
+            "value": "Marshall Islands"
+        },
+        {
+            "lable": "+596",
+            "value": "Martinique"
+        },
+        {
+            "lable": "+222",
+            "value": "Mauritania"
+        },
+        {
+            "lable": "+230",
+            "value": "Mauritius"
+        },
+        {
+            "lable": "+262",
+            "value": "Mayotte"
+        },
+        {
+            "lable": "+52",
+            "value": "Mexico"
+        },
+        {
+            "lable": "+691",
+            "value": "Micronesia"
+        },
+        {
+            "lable": "+1 808",
+            "value": "Midway Island"
+        },
+        {
+            "lable": "+373",
+            "value": "Moldova"
+        },
+        {
+            "lable": "+377",
+            "value": "Monaco"
+        },
+        {
+            "lable": "+976",
+            "value": "Mongolia"
+        },
+        {
+            "lable": "+382",
+            "value": "Montenegro"
+        },
+        {
+            "lable": "+1664",
+            "value": "Montserrat"
+        },
+        {
+            "lable": "+212",
+            "value": "Morocco"
+        },
+        {
+            "lable": "+95",
+            "value": "Myanmar"
+        },
+        {
+            "lable": "+264",
+            "value": "Namibia"
+        },
+        {
+            "lable": "+674",
+            "value": "Nauru"
+        },
+        {
+            "lable": "+977",
+            "value": "Nepal"
+        },
+        {
+            "lable": "+31",
+            "value": "Netherlands"
+        },
+        {
+            "lable": "+599",
+            "value": "Netherlands Antilles"
+        },
+        {
+            "lable": "+1 869",
+            "value": "Nevis"
+        },
+        {
+            "lable": "+687",
+            "value": "New Caledonia"
+        },
+        {
+            "lable": "+64",
+            "value": "New Zealand"
+        },
+        {
+            "lable": "+505",
+            "value": "Nicaragua"
+        },
+        {
+            "lable": "+227",
+            "value": "Niger"
+        },
+        {
+            "lable": "+234",
+            "value": "Nigeria"
+        },
+        {
+            "lable": "+683",
+            "value": "Niue"
+        },
+        {
+            "lable": "+672",
+            "value": "Norfolk Island"
+        },
+        {
+            "lable": "+850",
+            "value": "North Korea"
+        },
+        {
+            "lable": "+1 670",
+            "value": "Northern Mariana Islands"
+        },
+        {
+            "lable": "+47",
+            "value": "Norway"
+        },
+        {
+            "lable": "+968",
+            "value": "Oman"
+        },
+        {
+            "lable": "+92",
+            "value": "Pakistan"
+        },
+        {
+            "lable": "+680",
+            "value": "Palau"
+        },
+        {
+            "lable": "+970",
+            "value": "Palestinian Territory"
+        },
+        {
+            "lable": "+507",
+            "value": "Panama"
+        },
+        {
+            "lable": "+675",
+            "value": "Papua New Guinea"
+        },
+        {
+            "lable": "+595",
+            "value": "Paraguay"
+        },
+        {
+            "lable": "+51",
+            "value": "Peru"
+        },
+        {
+            "lable": "+63",
+            "value": "Philippines"
+        },
+        {
+            "lable": "+48",
+            "value": "Poland"
+        },
+        {
+            "lable": "+351",
+            "value": "Portugal"
+        },
+        {
+            "lable": "+1 787",
+            "value": "Puerto Rico"
+        },
+        {
+            "lable": "+974",
+            "value": "Qatar"
+        },
+        {
+            "lable": "+262",
+            "value": "Reunion"
+        },
+        {
+            "lable": "+40",
+            "value": "Romania"
+        },
+        {
+            "lable": "+7",
+            "value": "Russia"
+        },
+        {
+            "lable": "+250",
+            "value": "Rwanda"
+        },
+        {
+            "lable": "+685",
+            "value": "Samoa"
+        },
+        {
+            "lable": "+378",
+            "value": "San Marino"
+        },
+        {
+            "lable": "+966",
+            "value": "Saudi Arabia"
+        },
+        {
+            "lable": "+221",
+            "value": "Senegal"
+        },
+        {
+            "lable": "+381",
+            "value": "Serbia"
+        },
+        {
+            "lable": "+248",
+            "value": "Seychelles"
+        },
+        {
+            "lable": "+232",
+            "value": "Sierra Leone"
+        },
+        {
+            "lable": "+65",
+            "value": "Singapore"
+        },
+        {
+            "lable": "+421",
+            "value": "Slovakia"
+        },
+        {
+            "lable": "+386",
+            "value": "Slovenia"
+        },
+        {
+            "lable": "+677",
+            "value": "Solomon Islands"
+        },
+        {
+            "lable": "+27",
+            "value": "South Africa"
+        },
+        {
+            "lable": "+500",
+            "value": "South Georgia and the South Sandwich Islands"
+        },
+        {
+            "lable": "+82",
+            "value": "South Korea"
+        },
+        {
+            "lable": "+34",
+            "value": "Spain"
+        },
+        {
+            "lable": "+94",
+            "value": "Sri Lanka"
+        },
+        {
+            "lable": "+249",
+            "value": "Sudan"
+        },
+        {
+            "lable": "+597",
+            "value": "Suriname"
+        },
+        {
+            "lable": "+268",
+            "value": "Swaziland"
+        },
+        {
+            "lable": "+46",
+            "value": "Sweden"
+        },
+        {
+            "lable": "+41",
+            "value": "Switzerland"
+        },
+        {
+            "lable": "+963",
+            "value": "Syria"
+        },
+        {
+            "lable": "+886",
+            "value": "Taiwan"
+        },
+        {
+            "lable": "+992",
+            "value": "Tajikistan"
+        },
+        {
+            "lable": "+255",
+            "value": "Tanzania"
+        },
+        {
+            "lable": "+66",
+            "value": "Thailand"
+        },
+        {
+            "lable": "+670",
+            "value": "Timor Leste"
+        },
+        {
+            "lable": "+228",
+            "value": "Togo"
+        },
+        {
+            "lable": "+690",
+            "value": "Tokelau"
+        },
+        {
+            "lable": "+676",
+            "value": "Tonga"
+        },
+        {
+            "lable": "+1 868",
+            "value": "Trinidad and Tobago"
+        },
+        {
+            "lable": "+216",
+            "value": "Tunisia"
+        },
+        {
+            "lable": "+90",
+            "value": "Turkey"
+        },
+        {
+            "lable": "+993",
+            "value": "Turkmenistan"
+        },
+        {
+            "lable": "+1 649",
+            "value": "Turks and Caicos Islands"
+        },
+        {
+            "lable": "+688",
+            "value": "Tuvalu"
+        },
+        {
+            "lable": "+1 340",
+            "value": "U.S. Virgin Islands"
+        },
+        {
+            "lable": "+256",
+            "value": "Uganda"
+        },
+        {
+            "lable": "+380",
+            "value": "Ukraine"
+        },
+        {
+            "lable": "+971",
+            "value": "United Arab Emirates"
+        },
+        {
+            "lable": "+44",
+            "value": "United Kingdom"
+        },
+        {
+            "lable": "+1",
+            "value": "United States"
+        },
+        {
+            "lable": "+598",
+            "value": "Uruguay"
+        },
+        {
+            "lable": "+998",
+            "value": "Uzbekistan"
+        },
+        {
+            "lable": "+678",
+            "value": "Vanuatu"
+        },
+        {
+            "lable": "+58",
+            "value": "Venezuela"
+        },
+        {
+            "lable": "+84",
+            "value": "Vietnam"
+        },
+        {
+            "lable": "+1 808",
+            "value": "Wake Island"
+        },
+        {
+            "lable": "+681",
+            "value": "Wallis and Futuna"
+        },
+        {
+            "lable": "+967",
+            "value": "Yemen"
+        },
+        {
+            "lable": "+260",
+            "value": "Zambia"
+        },
+        {
+            "lable": "+255",
+            "value": "Zanzibar"
+        },
+        {
+            "lable": "+263",
+            "value": "Zimbabwe"
+        }
+    ]
+}
