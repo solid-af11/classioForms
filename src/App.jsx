@@ -20,8 +20,8 @@ function App() {
 
   return (
     <>
-      <button onClick={() => setFormOpen(true)} className='bg-indigo-900 w-20 h-20 rounded-full absolute bottom-10 right-10'>
-        ⭐
+      <button onClick={() => setFormOpen(true)} className='bg-indigo-900 px-4 w-max h-10 absolute top-1/3 right-0 text-white -rotate-90'>
+        Enquiry Form
       </button>
       {
         formOpen === true &&
